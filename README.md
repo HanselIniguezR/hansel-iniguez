@@ -17,7 +17,7 @@ Estudiante de **Ingeniería en Ciencias Computacionales** en la Universidad de G
 
 ### Proyectos Destacados
 - **[Sistema de Boletaje Fullstack](LINK_A_TU_REPOSITORIO):** E-commerce con gestión de asientos en tiempo real y validación de datos.
-- **[Spotify Desktop Player](LINK_A_TU_REPOSITORIO):** Reproductor de música desarrollado en Python (Tkinter) integrado con la API oficial de Spotify.
+- **[Spotify Desktop Player](https://github.com/HanselIniguezR/spotify-music-player/tree/c56f3b7b541656bd98efc8dcb449b4798d29241f/SpotifyAPI):** Reproductor de música desarrollado en Python (Tkinter) integrado con la API oficial de Spotify.
 
 ### Contacto
 - [LinkedIn](www.linkedin.com/in/hansel-rafael-iñiguez-rosales-7a449b380)
