@@ -1,4 +1,4 @@
-Hola, soy Hansel Iñiguez
+**Hola, soy Hansel Iñiguez**
 "Software Engineer Student @ UDG | Python (FastAPI) & Node.js | QA & Fullstack Enthusiast"
 
 Estudiante de Ingeniería en Ciencias Computacionales en la Universidad de Guadalajara (CUTonalá) con especialidad en Desarrollo de Software. Próximo a egresar en 2027.
@@ -13,9 +13,11 @@ Lenguajes: Python (Intermedio/Avanzado), SQL, JavaScript.
 
 Backend: FastAPI (Básico), Node.js (Básico).
 
-Frameworks: Vue.js, React.
+Arquitectura: Microservicios.
 
-Herramientas: Docker, Git/GitHub.
+Frontend: Vue.js, React.
+
+Herramientas y DevOps: Docker, Git/GitHub, Railway.
 
 QA & Testing: Creación de planes de prueba, Debugging avanzado, Pruebas unitarias y funcionales.
 
