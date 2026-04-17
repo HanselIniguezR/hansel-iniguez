@@ -1,52 +1,102 @@
-**Hola, soy Hansel Iñiguez**
-"Software Engineer Student @ UDG | Python (FastAPI) & Node.js | QA & Fullstack Enthusiast"
+# 👨‍💻 Hola, soy Hansel Iñiguez
 
-Estudiante de Ingeniería en Ciencias Computacionales en la Universidad de Guadalajara (CUTonalá) con especialidad en Desarrollo de Software. Próximo a egresar en 2027.
+### 🚀 Software Engineer Student @ UDG
 
-Sobre mí
-Enfocado en el desarrollo de software robusto y el aseguramiento de la calidad (QA).
+**Python (FastAPI) | Node.js | QA | Fullstack Enthusiast**
 
-Me apasiona resolver problemas técnicos y optimizar sistemas mediante el uso de contenedores y metodologías ágiles.
+---
 
-Stack Tecnológico
-Lenguajes: Python (Intermedio/Avanzado), SQL, JavaScript.
+🎓 Estudiante de **Ingeniería en Ciencias Computacionales** en la Universidad de Guadalajara (CUTonalá).
+📅 Próximo a egresar en **2027**.
 
-Backend: FastAPI (Básico), Node.js (Básico).
+---
 
-Arquitectura: Microservicios.
+## 🧠 Sobre mí
 
-Frontend: Vue.js, React.
+Soy un desarrollador enfocado en la creación de **software robusto, escalable y bien probado**.
 
-Herramientas y DevOps: Docker, Git/GitHub, Railway.
+Me interesa especialmente el **aseguramiento de la calidad (QA)**, el diseño de sistemas eficientes y la optimización mediante herramientas modernas como contenedores y arquitecturas desacopladas.
 
-QA & Testing: Creación de planes de prueba, Debugging avanzado, Pruebas unitarias y funcionales.
+💡 Disfruto resolver problemas complejos, detectar errores y mejorar sistemas existentes.
 
-Metodologías: SCRUM, Kanban, Extreme Programming (XP).
+---
 
-Proyectos Destacados
-Sistema de Venta de Boletos TO (Fullstack)
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes
+
+* Python (Intermedio / Avanzado)
+* SQL
+* JavaScript
+
+### ⚙️ Backend
+
+* FastAPI (Básico)
+* Node.js (Básico)
+
+### 🧩 Arquitectura
+
+* Microservicios
+
+### 🎨 Frontend
+
+* Vue.js
+* React
+
+### 🔧 Herramientas & DevOps
+
+* Docker
+* Git & GitHub
+* Railway
+
+### 🧪 QA & Testing
+
+* Planes de prueba
+* Debugging avanzado
+* Pruebas unitarias y funcionales
+
+### 📊 Metodologías
+
+* SCRUM
+* Kanban
+* Extreme Programming (XP)
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🎟️ Sistema de Venta de Boletos TO (Fullstack)
+
 Plataforma e-commerce para la venta de entradas.
 
-Lógica de Negocio: Programé el sistema de gestión de asientos para recintos, asegurando la consistencia de datos en SQL.
+🔹 Implementé la lógica de gestión de asientos asegurando consistencia en base de datos SQL.
+🔹 Diseñé y ejecuté pruebas funcionales detectando errores de sincronización.
 
-QA Focus: Diseñé y ejecuté planes de prueba funcionales e identifiqué errores de sincronización mediante debugging avanzado.
+**Tech:** Vue.js | JavaScript | SQL
+🔗 https://github.com/HansellniguezR/sistema-venta-boletosTO
 
-Tecnologías: Vue.js, JavaScript, SQL.
+---
 
-Enlace: https://github.com/HansellniguezR/sistema-venta-boletosTO
+### 🎧 Spotify Desktop Player
 
-Spotify Desktop Player
-Aplicación de escritorio integrada con la API oficial de Spotify.
+Aplicación de escritorio integrada con la API de Spotify.
 
-Funcionalidad: Implementación de autenticación OAuth y gestión de datos de canciones.
+🔹 Implementé autenticación OAuth y manejo de datos musicales.
+🔹 Validé funcionamiento mediante pruebas de integración y UI.
 
-QA Focus: Aplicación de pruebas para asegurar el correcto funcionamiento de la integración y la interfaz gráfica.
+**Tech:** Python | Tkinter | Spotify API
+🔗 https://github.com/HansellniguezR/spotify-music-player
 
-Tecnologías: Python, Tkinter, Spotify API.
+---
 
-Enlace: https://github.com/HansellniguezR/spotify-music-player
+## 📫 Contacto
 
-Contacto
-LinkedIn: https://www.linkedin.com/in/hansel-rafael-iñiguez-rosales-7a449b380
+💼 LinkedIn
+https://www.linkedin.com/in/hansel-rafael-iñiguez-rosales-7a449b380
 
-Email: hanselrafaelyzy@gmail.com
+📧 Email
+[hanselrafaelyzy@gmail.com](mailto:hanselrafaelyzy@gmail.com)
+
+---
+
+⭐ *Siempre abierto a colaborar en proyectos, aprender nuevas tecnologías y aportar valor a equipos de desarrollo.*
